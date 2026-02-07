@@ -55,7 +55,7 @@ The reward function is internal to the environment, so no explicit reward is pro
 - **Training:** Observation → action → reward → **CNN weights update** cycle.
 - **Save:** Saving **model checkpoints**.
 
-![image/image.png](image.png)
+![image.png](image/image.png)
 
 ---
 
@@ -134,13 +134,13 @@ plt.show()
 
 Input image
 
-![image/2.png](2.png)
+![2.png](image/2.png)
 
 output image
 
-![image/test_grayscale1.png](test_greyscale1.png)
+![test_grayscale1.png](image/test_greyscale1.png)
 
-![image/test_grayscale.png](test_greyscale.png)
+![test_grayscale.png](image/test_greyscale.png)
 
 ## 5.2 Wrapper
 
